@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Trang chủ"/>
+    <item
+        android:id="@+id/nav_tv"
+        android:icon="@drawable/baseline_tv_24"
+        android:title="Truyền hình"/>
+    <item
+        android:id="@+id/nav_film"
+        android:icon="@drawable/baseline_local_movies_24"
+        android:title="Phim"/>
+    <item
+        android:id="@+id/nav_video"
+        android:icon="@drawable/baseline_slow_motion_video_24"
+        android:title="Video"/>
+    <item
+        android:id="@+id/nav_apple"
+        android:icon="@drawable/baseline_connected_tv_24"
+        android:title="AppleTV"/>
+
+</menu>
